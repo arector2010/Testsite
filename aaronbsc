@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron Rector - Business Systems Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff; /* Light blue */
+            color: #333; /* Dark gray */
+        }
+        
+        header {
+            background-color: #4169e1; /* Royal blue */
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        
+        h1 {
+            margin-bottom: 10px;
+        }
+        
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4169e1; /* Royal blue */
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Aaron Rector</h1>
+        <p>Business Systems Consultant</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I'm Aaron Rector, a Business Systems Consultant working for Progressive Insurance. I specialize in optimizing business processes and implementing innovative solutions to drive efficiency and growth.</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>Email: your_email@example.com<br>
+            Phone: (123) 456-7890<br>
+            LinkedIn: <a href="https://www.linkedin.com/in/your_linkedin_profile" target="_blank">Your LinkedIn Profile</a></p>
+    </section>
+
+    <footer>
+        &copy; 2024 Aaron Rector | Designed by Aaron Rector
+    </footer>
+</body>
+
+</html>
